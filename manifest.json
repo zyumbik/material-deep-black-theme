@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 
 	"name": "Material Deep Black Theme",
-	"description": "A theme that adds a black colour scheme to Chrome.",
+	"description": "A theme that adds a black colour scheme to Chrome — white omnibar version.",
 	"version": "4.0.1",
 
 	"theme": {
