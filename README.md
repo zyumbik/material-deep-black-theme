@@ -1,3 +1,5 @@
+![Material Deep Black Theme with white omnibar](./tile-image.png)
+
 # Material Deep Black Theme
 
 In this theme, everything is black, white or grey. It's as simple as that. This is a fork of https://github.com/Fiddle-N/material-deep-black-theme/ with white omnibar.
