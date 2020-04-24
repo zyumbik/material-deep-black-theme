@@ -1,9 +1,10 @@
 {
 	"manifest_version": 2,
 
-	"name": "Material Deep Black Theme",
+	"name": "Black #000000 Theme — White Omnibar",
 	"description": "A theme that adds a black colour scheme to Chrome — white omnibar version.",
-	"version": "4.0.1",
+	"version": "4.0.2",
+	"icons": { "128": "icon.png" },
 
 	"theme": {
 		"images": {
@@ -19,7 +20,9 @@
 			"ntp_text": [255, 255, 255],
 			"toolbar": [0, 0, 0],
 			"tab_background_text": [150, 150, 150],
-			"tab_text": [255, 255, 255]
+			"tab_text": [255, 255, 255],
+			"omnibox_background": [255, 255, 255],
+			"omnibox_text": [0, 0, 0]
 		},
 		"tints": {
 			"buttons": [0, 0, 1]
